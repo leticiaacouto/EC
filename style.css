@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+    align-items: center;
+}
+
+button {
+   
+    /* height: 50px; */
+    font-size: 15px;
+    /* margin: 10px 5px; */
+    border: none;
+    background-color: rgb(207, 149, 120);
+    color: rgb(27, 17, 17);
+    box-shadow: 5px 5px 5px  rgb(146, 118, 102);
+    border-radius: 10px;
+    
+}
